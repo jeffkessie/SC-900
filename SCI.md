@@ -51,4 +51,4 @@ For **2-5 intense weeks**, I immersed myself in Microsoft's security ecosystem w
 ---
 
 📅 *Certification Earned: [May 27, 2025]*  
-🔐 *Next Goal: 🤫*  
+🔐 Next Goal: 🤫  
