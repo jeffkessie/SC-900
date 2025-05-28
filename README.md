@@ -1,1 +1,1 @@
-## Continous Learning
+## Continuous Learning
